@@ -23,6 +23,7 @@ function countdown()
     minutes.innerHTML = m;
     hours.innerHTML = h;
     days.innerHTML = d;
+    months.innerHTML = m;
 
     
 

@@ -19,11 +19,6 @@
 }
 .main .year_container h2{
     font-size: 150px;
-    transform: rotate(-90deg);
-    -webkit-transform: rotate(-90deg);
-    -moz-transform: rotate(-90deg);
-    -ms-transform: rotate(-90deg);
-    -o-transform: rotate(-90deg);
    
     background: linear-gradient(#DC2424,#4A569D);
    background-clip: text;
